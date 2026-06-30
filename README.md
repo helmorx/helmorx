@@ -5,7 +5,7 @@
 <h2 align="center">AI coding agents need a project operating layer.</h2>
 
 <p align="center">
-  HELMOR builds local-first tools that reduce wasted tokens, project drift, hallucinated changes, and unsafe agent actions.
+  HELMOR helps AI coding agents spend fewer tokens, remember repo context, avoid project drift, and stop unsafe actions before they ship.
 </p>
 
 <p align="center">
