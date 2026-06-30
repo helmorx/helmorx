@@ -5,7 +5,7 @@
 <h2 align="center">AI coding agents need a project operating layer.</h2>
 
 <p align="center">
-  HELMOR helps AI coding agents spend fewer tokens, remember repo context, avoid project drift, and stop unsafe actions before they ship.
+  HELMOR helps AI coding agents spend fewer tokens, remember repo context, route 14 built-in skills, avoid project drift, and stop unsafe actions before they ship.
 </p>
 
 <p align="center">
@@ -18,11 +18,22 @@
 
 ## Start here
 
+macOS:
+
 ```bash
-brew tap helmorx/agent-os https://github.com/helmorx/agent-os
-brew install helmor
-helmor install
-helmor dashboard
+brew install --formula https://raw.githubusercontent.com/helmorx/agent-os/main/Formula/helmor.rb
+```
+
+Windows:
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -Command "irm https://raw.githubusercontent.com/helmorx/agent-os/main/install/install.ps1 | iex"
+```
+
+Linux:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/helmorx/agent-os/main/install/install.sh | sh
 ```
 
 ## What HELMOR does
@@ -43,6 +54,12 @@ helmor dashboard
     </td>
   </tr>
 </table>
+
+## HELMOR skills
+
+HELMOR Agent OS is a local devsuite for AI-assisted software work. Its built-in skills help agents choose the right behavior before they spend tokens or touch code.
+
+`Project Memory` · `Token Reduction` · `Architecture` · `API Contracts` · `Testing` · `Security` · `Launch Readiness` · `UI Design` · `Frontend` · `Backend` · `Data` · `Infrastructure` · `Docs & Handoff` · `Product Planning`
 
 ## Project
 
