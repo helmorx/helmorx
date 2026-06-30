@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:06080D,50:0E1724,100:19C37D&text=HELMOR%20X&fontColor=EAF1FF&fontSize=58&fontAlignY=38&desc=Local-first%20AI%20development%20engine&descAlignY=58&descSize=18" alt="HELMOR X banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:06080D,50:0E1724,100:19C37D&text=HELMOR%20Agent%20OS&fontColor=EAF1FF&fontSize=48&fontAlignY=38&desc=Local-first%20operating%20layer%20for%20AI%20coding%20agents&descAlignY=58&descSize=18" alt="HELMOR Agent OS banner" />
 </p>
 
 <h2 align="center">AI coding agents need a project operating layer.</h2>
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/helmorx/devsuite"><img src="https://img.shields.io/badge/Open-DevSuite-19C37D?style=for-the-badge&logo=github&logoColor=06080D" alt="Open DevSuite"></a>
-  <a href="https://github.com/helmorx/devsuite/releases"><img src="https://img.shields.io/badge/Install-v0.1.0-0E1724?style=for-the-badge" alt="Install v0.1.0"></a>
-  <a href="https://github.com/helmorx/devsuite/blob/main/LICENSE"><img src="https://img.shields.io/badge/Apache--2.0-local--first-0E1724?style=for-the-badge" alt="Apache-2.0 local-first"></a>
+  <a href="https://helmor.io"><img src="https://img.shields.io/badge/Website-helmor.io-19C37D?style=for-the-badge" alt="helmor.io"></a>
+  <a href="https://github.com/helmorx/agent-os"><img src="https://img.shields.io/badge/Open-Agent%20OS-0E1724?style=for-the-badge&logo=github&logoColor=19C37D" alt="Open Agent OS"></a>
+  <a href="https://x.com/helmorlabs"><img src="https://img.shields.io/badge/X-@helmorlabs-0E1724?style=for-the-badge&logo=x&logoColor=19C37D" alt="@helmorlabs on X"></a>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ## Start here
 
 ```bash
-brew tap helmorx/devsuite https://github.com/helmorx/devsuite
+brew tap helmorx/agent-os https://github.com/helmorx/agent-os
 brew install helmor
 helmor install
 helmor dashboard
@@ -48,7 +48,7 @@ helmor dashboard
 
 | Repository | What it is |
 |---|---|
-| [helmorx/devsuite](https://github.com/helmorx/devsuite) | The local development engine for AI-assisted coding |
+| [helmorx/agent-os](https://github.com/helmorx/agent-os) | Local operating layer for AI coding agents |
 
 ## Built for
 
