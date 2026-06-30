@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:06080D,50:0E1724,100:19C37D&text=HELMOR%20Agent%20OS&fontColor=EAF1FF&fontSize=48&fontAlignY=38&desc=Local-first%20operating%20layer%20for%20AI%20coding%20agents&descAlignY=58&descSize=18" alt="HELMOR Agent OS banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:06080D,50:0E1724,100:19C37D&text=HELMOR%20Agent%20OS&fontColor=EAF1FF&fontSize=48&fontAlignY=38&desc=The%20local%20agent%20watcher%20for%20AI%20product%20development&descAlignY=58&descSize=18" alt="HELMOR Agent OS banner" />
 </p>
 
-<h2 align="center">AI coding agents need a project operating layer.</h2>
+<h2 align="center">Build with AI agents from idea to launch.</h2>
 
 <p align="center">
-  HELMOR helps AI coding agents spend fewer tokens, remember repo context, route 14 built-in skills, avoid project drift, and stop unsafe actions before they ship.
+  HELMOR Agent OS is a local-first devsuite that watches AI coding sessions, routes 14 built-in skills, preserves project context, reduces token waste, reduces drift, and enforces checks before handoff or release.
 </p>
 
 <p align="center">
@@ -41,39 +41,33 @@ curl -fsSL https://raw.githubusercontent.com/helmorx/agent-os/main/install/insta
 <table>
   <tr>
     <td width="33%">
-      <h3>Token discipline</h3>
-      <p>Compact output, context cards, handoffs, graph-first discovery, and fewer repeated repo scans.</p>
+      <h3>Watches the session</h3>
+      <p>Starts agents with context, watches tool use, tracks touched areas, and preserves handoffs.</p>
     </td>
     <td width="33%">
-      <h3>Agent grounding</h3>
-      <p>Project profiles, truth files, checks, modes, and local state keep agents aligned to the repo.</p>
+      <h3>Routes the work</h3>
+      <p>Uses 14 HELMOR skills across planning, building, verification, launch, and memory.</p>
     </td>
     <td width="33%">
-      <h3>Safety rails</h3>
-      <p>Detector packs catch secrets, destructive commands, runner drift, unsafe deploys, and UI drift.</p>
+      <h3>Reduces waste</h3>
+      <p>Cuts repeated repo scans, reduces hallucination and drift, and keeps checks visible.</p>
     </td>
   </tr>
 </table>
 
+## Product lifecycle
+
+`Plan` -> `Build` -> `Watch` -> `Verify` -> `Ship` -> `Remember`
+
 ## HELMOR skills
 
-HELMOR Agent OS is a local devsuite for AI-assisted software work. Its built-in skills help agents choose the right behavior before they spend tokens or touch code.
-
-`Project Memory` · `Token Reduction` · `Architecture` · `API Contracts` · `Testing` · `Security` · `Launch Readiness` · `UI Design` · `Frontend` · `Backend` · `Data` · `Infrastructure` · `Docs & Handoff` · `Product Planning`
+`Product Planning` · `Architecture` · `API Contracts` · `Frontend` · `Backend` · `Data` · `Infrastructure` · `UI Design` · `Testing` · `Security` · `Launch Readiness` · `Project Memory` · `Token Reduction` · `Docs & Handoff`
 
 ## Project
 
 | Repository | What it is |
 |---|---|
-| [helmorx/agent-os](https://github.com/helmorx/agent-os) | Local operating layer for AI coding agents |
-
-## Built for
-
-- Codex
-- Claude Code
-- Cursor
-- Windsurf
-- developers shipping real projects with AI agents
+| [helmorx/agent-os](https://github.com/helmorx/agent-os) | Local agent watcher and operating layer for AI-assisted product development |
 
 ## Principles
 
